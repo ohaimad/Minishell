@@ -8,7 +8,7 @@
   </a>
 </p>
 
-*A mini recreation of bash.  Implementing previously learned concepts like file descriptors and processes.  Made with [Alfred Polycarpe](https://github.com/Alfredpoly).*
+*A mini recreation of bash.  Implementing previously learned concepts like file descriptors and processes.  Made with [Otmane Haimad](https://github.com/ohaimad)[Assem Talha](https://github.com/assemle1).*
 
 ## Table of Contents
 - [The Challenge](#the-challenge)
